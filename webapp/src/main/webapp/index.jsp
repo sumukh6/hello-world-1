@@ -9,7 +9,7 @@
         font-size: 16px;
         line-height: 1.5;
         padding: 20px;
-        background-color: #fff;
+        background-color: #a0f2ff;
         color: #333;
       }
 
@@ -33,7 +33,7 @@
     </style>
   </head>
   <body>
-    <h1>My Dearest Love,</h1>
+    <h1>My Star,</h1>
     <p>Dearest Siri, today marks the day of your birth, and I feel so grateful and blessed to be able to celebrate this special occasion with you.
       You are the most important girl in my life, and I want you to know how much you mean to me.
       You bring so much love, joy, and happiness into my life, and I can't imagine a day without you.</p>
