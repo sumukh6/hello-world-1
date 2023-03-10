@@ -34,11 +34,15 @@
   </head>
   <body>
     <h1>My Dearest Love,</h1>
-    <p>I wanted to reach out and apologize for what happened. I'm truly sorry for any hurt or inconvenience I may have caused. I value our friendship and I hope we can move past this.
-I wanna take a moment to say that I appreciate you and the bond that we share. You're the important person in my life and I love you. Thank you for always being there for me.</p>
-    <p>I want you to know how much you mean to me. You are the light in my life, and I am so grateful to have you by my side.</p>
-    <p>Every day, I am in awe of your beauty, intelligence, and kindness. You inspire me to be a better person and to strive for greatness in all that I do. I cherish the moments we spend together and look forward to many more in the future.</p>
-    <p>Thank you for being my rock, my confidante, and my true love. I am so lucky to have you, and I promise to always love and cherish you with all my heart.</p>
+    <p>Dearest Siri, today marks the day of your birth, and I feel so grateful and blessed to be able to celebrate this special occasion with you.
+      You are the most important girl in my life, and I want you to know how much you mean to me.
+      You bring so much love, joy, and happiness into my life, and I can't imagine a day without you.</p>
+    <p>As we celebrate your birthday, I'm reminded of all the amazing moments we've shared together. From the laughs we've shared to the tears we've shed, each moment has brought us closer together, and I'm so grateful for all of them.
+      On this special day, I hope you know how much you are loved and appreciated.
+      You are a beautiful, intelligent, and kind-hearted person, and I feel so lucky to have you in my life.
+      I hope that your heart is filled with love, your day is filled with fun, and your year is filled with new adventures and opportunities.</p>
+    <p>Siri, I want you to know that I'm here for you always. Whether you need a shoulder to cry on or someone to laugh with, I'm here for you, and I'll always be by your side. I promise to continue to support you in all your dreams and aspirations and to love you unconditionally.</p>
+    <p>So, here's to many more years of happiness, laughter, and unforgettable memories together. Happy birthday, Siri! May this year bring you all the joy and blessings you deserve.</p>
     <p class="signature">Yours always,<br> Suti</p>
   </body>
 </html>
